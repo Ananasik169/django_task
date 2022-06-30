@@ -1,0 +1,5 @@
+.idea
+*initial.py
+django_task/django_task/mainApp/migrations/*
+django_task/django_task/db.sqlite3
+django_task/venv/*
